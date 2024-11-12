@@ -1,6 +1,6 @@
 # Stochastic Modeling of Developmental Biology Concepts
 
-This project is a MATLAB implementation of various stochastic models to simulate developmental biology concepts, with a focus on reaction-diffusion systems, compartmental modeling, and spatial heterogeneity in cellular processes.
+This project is a MATLAB implementation of various stochastic models to simulate developmental biology concepts, with a focus on reaction-diffusion systems, compartmental modeling, and spatial heterogeneity in cellular processes. This was part of an undergraduate course project with professor David Green.
 
 ---
 
